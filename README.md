@@ -1,3 +1,4 @@
+Vue CLI
 # new-project
 
 ## Project setup
